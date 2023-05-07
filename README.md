@@ -7,3 +7,4 @@
 * [รหัสส่วนหน้า](https://github.com/xxai-art/web)
 * [ชุดภาษาสำหรับไซต์โดยรวม](https://github.com/xxai-art/web/tree/main/i18n)
 * [ชุดภาษาสำหรับโมดูลการเข้าสู่ระบบ](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [เอกสารหลายภาษาของเว็บไซต์](https://github.com/xxai-doc)
